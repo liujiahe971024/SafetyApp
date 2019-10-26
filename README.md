@@ -1,2 +1,2 @@
-# IwillFindYou
+# SafetyApp
 wear OS
